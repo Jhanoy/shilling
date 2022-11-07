@@ -52,7 +52,7 @@ const links = [
 		),
 	},
 	{
-		label: 'Story',
+		label: 'Market',
 		href: '/story',
 		icon: (
 			<svg
@@ -70,7 +70,7 @@ const links = [
 		),
 	},
 	{
-		label: 'Recipes',
+		label: 'Me',
 		href: '/recipes',
 		icon: (
 			<svg
